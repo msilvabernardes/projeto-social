@@ -54,4 +54,5 @@ section#redes-sociais img:hover{
     transform: translate(-5px, -5px);
     box-shadow: 5px 5px 10px black;
     transition: transform 0.2s, border .5s;
+    width: 60px;
 }
